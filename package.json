@@ -1,0 +1,13 @@
+{
+  "name": "auto-manual-ss",
+  "version": "1.0.0",
+  "description": "auto-manual-ss",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "puppeteer": "^1.10.0"
+  }
+}
